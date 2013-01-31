@@ -8,6 +8,7 @@
 
 // To Do:
 //		1) Fix the ContentDir files to compare for fixed or arbitrary network locations
+//		2) An error is thrown if there's space in the scene name
 //		
 
 // Fixed:  7-11-2012
